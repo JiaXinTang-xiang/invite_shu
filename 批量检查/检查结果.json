@@ -1,0 +1,3818 @@
+[
+  {
+    "kind": "校级组织",
+    "index": 1,
+    "name": "校团委社团部",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\01_校团委社团部_邀请函.png",
+    "recipient": "尊敬的校团委社团部：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 2,
+    "name": "校学生会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\02_校学生会_邀请函.png",
+    "recipient": "尊敬的校学生会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 3,
+    "name": "大学生传媒中心",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\03_大学生传媒中心_邀请函.png",
+    "recipient": "尊敬的大学生传媒中心：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 4,
+    "name": "大学生艺术团",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\04_大学生艺术团_邀请函.png",
+    "recipient": "尊敬的大学生艺术团：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 5,
+    "name": "校团委学生部",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\05_校团委学生部_邀请函.png",
+    "recipient": "尊敬的校团委学生部：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 6,
+    "name": "校易班工作站",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\06_校易班工作站_邀请函.png",
+    "recipient": "尊敬的校易班工作站：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 7,
+    "name": "国旗护卫队",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\07_国旗护卫队_邀请函.png",
+    "recipient": "尊敬的国旗护卫队：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 8,
+    "name": "园区团委、自管会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\08_园区团委、自管会_邀请函.png",
+    "recipient": "尊敬的园区团委、自管会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 9,
+    "name": "大学生创新创业服务中心",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\09_大学生创新创业服务中心_邀请函.png",
+    "recipient": "尊敬的大学生创新创业服务中心：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 10,
+    "name": "阅读推广学生委员会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\10_阅读推广学生委员会_邀请函.png",
+    "recipient": "尊敬的阅读推广学生委员会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "校级组织",
+    "index": 11,
+    "name": "桂航探天飞行表演队",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\校级组织\\11_桂航探天飞行表演队_邀请函.png",
+    "recipient": "尊敬的桂航探天飞行表演队：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵组织选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 1,
+    "name": "财经统计与商业分析协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\01_财经统计与商业分析协会_邀请函.png",
+    "recipient": "尊敬的财经统计与商业分析协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 2,
+    "name": "市场调研中心协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\02_市场调研中心协会_邀请函.png",
+    "recipient": "尊敬的市场调研中心协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 3,
+    "name": "青年学“习”社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\03_青年学“习”社_邀请函.png",
+    "recipient": "尊敬的青年学“习”社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 4,
+    "name": "军事爱好者协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\04_军事爱好者协会_邀请函.png",
+    "recipient": "尊敬的军事爱好者协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 5,
+    "name": "大学生心理健康协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\05_大学生心理健康协会_邀请函.png",
+    "recipient": "尊敬的大学生心理健康协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 6,
+    "name": "英语协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\06_英语协会_邀请函.png",
+    "recipient": "尊敬的英语协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 7,
+    "name": "TBS环保协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\07_TBS环保协会_邀请函.png",
+    "recipient": "尊敬的TBS环保协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 8,
+    "name": "大学生就业协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\08_大学生就业协会_邀请函.png",
+    "recipient": "尊敬的大学生就业协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 9,
+    "name": "旅游协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\09_旅游协会_邀请函.png",
+    "recipient": "尊敬的旅游协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 10,
+    "name": "企业管理与工业工程协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\10_企业管理与工业工程协会_邀请函.png",
+    "recipient": "尊敬的企业管理与工业工程协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 11,
+    "name": "青年志愿者协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\11_青年志愿者协会_邀请函.png",
+    "recipient": "尊敬的青年志愿者协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 12,
+    "name": "自强爱心社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\12_自强爱心社_邀请函.png",
+    "recipient": "尊敬的自强爱心社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 13,
+    "name": "创英营销实战协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\13_创英营销实战协会_邀请函.png",
+    "recipient": "尊敬的创英营销实战协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 14,
+    "name": "创新创业协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\14_创新创业协会_邀请函.png",
+    "recipient": "尊敬的创新创业协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 15,
+    "name": "桂航寻知协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\15_桂航寻知协会_邀请函.png",
+    "recipient": "尊敬的桂航寻知协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 16,
+    "name": "校友工作志愿者协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\16_校友工作志愿者协会_邀请函.png",
+    "recipient": "尊敬的校友工作志愿者协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 17,
+    "name": "桂航青年支教团",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\17_桂航青年支教团_邀请函.png",
+    "recipient": "尊敬的桂航青年支教团：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 18,
+    "name": "跨境电商创业协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\18_跨境电商创业协会_邀请函.png",
+    "recipient": "尊敬的跨境电商创业协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 19,
+    "name": "校园讲解团",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\19_校园讲解团_邀请函.png",
+    "recipient": "尊敬的校园讲解团：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 20,
+    "name": "篮球协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\20_篮球协会_邀请函.png",
+    "recipient": "尊敬的篮球协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 21,
+    "name": "排球协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\21_排球协会_邀请函.png",
+    "recipient": "尊敬的排球协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 22,
+    "name": "足球协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\22_足球协会_邀请函.png",
+    "recipient": "尊敬的足球协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 23,
+    "name": "武术协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\23_武术协会_邀请函.png",
+    "recipient": "尊敬的武术协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 24,
+    "name": "乒乓球协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\24_乒乓球协会_邀请函.png",
+    "recipient": "尊敬的乒乓球协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 25,
+    "name": "羽毛球协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\25_羽毛球协会_邀请函.png",
+    "recipient": "尊敬的羽毛球协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 26,
+    "name": "炫飞轮滑社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\26_炫飞轮滑社_邀请函.png",
+    "recipient": "尊敬的炫飞轮滑社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 27,
+    "name": "网球协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\27_网球协会_邀请函.png",
+    "recipient": "尊敬的网球协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 28,
+    "name": "桂航自行车协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\28_桂航自行车协会_邀请函.png",
+    "recipient": "尊敬的桂航自行车协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 29,
+    "name": "红星剑道社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\29_红星剑道社_邀请函.png",
+    "recipient": "尊敬的红星剑道社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 30,
+    "name": "手球社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\30_手球社_邀请函.png",
+    "recipient": "尊敬的手球社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 31,
+    "name": "FOD滑板社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\31_FOD滑板社_邀请函.png",
+    "recipient": "尊敬的FOD滑板社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 32,
+    "name": "音乐协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\32_音乐协会_邀请函.png",
+    "recipient": "尊敬的音乐协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 33,
+    "name": "影舞社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\33_影舞社_邀请函.png",
+    "recipient": "尊敬的影舞社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 34,
+    "name": "棋弈社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\34_棋弈社_邀请函.png",
+    "recipient": "尊敬的棋弈社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 35,
+    "name": "影风动漫社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\35_影风动漫社_邀请函.png",
+    "recipient": "尊敬的影风动漫社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 36,
+    "name": "常青藤文学社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\36_常青藤文学社_邀请函.png",
+    "recipient": "尊敬的常青藤文学社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 37,
+    "name": "萤火虫书画协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\37_萤火虫书画协会_邀请函.png",
+    "recipient": "尊敬的萤火虫书画协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 38,
+    "name": "十三月摄影协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\38_十三月摄影协会_邀请函.png",
+    "recipient": "尊敬的十三月摄影协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 39,
+    "name": "桂航茶文化协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\39_桂航茶文化协会_邀请函.png",
+    "recipient": "尊敬的桂航茶文化协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 40,
+    "name": "UK尤克里里协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\40_UK尤克里里协会_邀请函.png",
+    "recipient": "尊敬的UK尤克里里协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 41,
+    "name": "指尖极速魔方社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\41_指尖极速魔方社_邀请函.png",
+    "recipient": "尊敬的指尖极速魔方社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 42,
+    "name": "航鹰博论社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\42_航鹰博论社_邀请函.png",
+    "recipient": "尊敬的航鹰博论社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 43,
+    "name": "美食文化协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\43_美食文化协会_邀请函.png",
+    "recipient": "尊敬的美食文化协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 44,
+    "name": "惊鸿汉服社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\44_惊鸿汉服社_邀请函.png",
+    "recipient": "尊敬的惊鸿汉服社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 45,
+    "name": "曲艺社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\45_曲艺社_邀请函.png",
+    "recipient": "尊敬的曲艺社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 46,
+    "name": "说唱社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\46_说唱社_邀请函.png",
+    "recipient": "尊敬的说唱社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 47,
+    "name": "壹视界外拍摄影俱乐部",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\47_壹视界外拍摄影俱乐部_邀请函.png",
+    "recipient": "尊敬的壹视界外拍摄影俱乐部：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 48,
+    "name": "演讲与口才协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\48_演讲与口才协会_邀请函.png",
+    "recipient": "尊敬的演讲与口才协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 49,
+    "name": "原声吉他社",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\49_原声吉他社_邀请函.png",
+    "recipient": "尊敬的原声吉他社：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 50,
+    "name": "航模协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\50_航模协会_邀请函.png",
+    "recipient": "尊敬的航模协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 51,
+    "name": "机械创维中心",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\51_机械创维中心_邀请函.png",
+    "recipient": "尊敬的机械创维中心：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 52,
+    "name": "计算机协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\52_计算机协会_邀请函.png",
+    "recipient": "尊敬的计算机协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 53,
+    "name": "通信协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\53_通信协会_邀请函.png",
+    "recipient": "尊敬的通信协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 54,
+    "name": "汽车爱好者协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\54_汽车爱好者协会_邀请函.png",
+    "recipient": "尊敬的汽车爱好者协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 55,
+    "name": "数学建模协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\55_数学建模协会_邀请函.png",
+    "recipient": "尊敬的数学建模协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 56,
+    "name": "电子爱好者协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\56_电子爱好者协会_邀请函.png",
+    "recipient": "尊敬的电子爱好者协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 57,
+    "name": "自动化应用协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\57_自动化应用协会_邀请函.png",
+    "recipient": "尊敬的自动化应用协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 58,
+    "name": "无人机物流协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\58_无人机物流协会_邀请函.png",
+    "recipient": "尊敬的无人机物流协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 59,
+    "name": "天文爱好者协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\59_天文爱好者协会_邀请函.png",
+    "recipient": "尊敬的天文爱好者协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 60,
+    "name": "工匠向往者协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\60_工匠向往者协会_邀请函.png",
+    "recipient": "尊敬的工匠向往者协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  },
+  {
+    "kind": "社团",
+    "index": 61,
+    "name": "考研协会",
+    "filepath": "C:\\Users\\JXT\\Desktop\\shu\\换届大会邀请函_定稿\\社团\\61_考研协会_邀请函.png",
+    "recipient": "尊敬的考研协会：",
+    "date": "2026年10月24日18:00-20:00",
+    "issued": "2026年10月20日",
+    "bodyText": "诚邀贵社团选派1—2名代表莅临观礼，共叙友谊，见证传承。",
+    "notice": "请到场代表提前十分钟入场。",
+    "badgeLoaded": true,
+    "recipientBox": {
+      "x": 95,
+      "y": 535,
+      "width": 890,
+      "height": 61.046875,
+      "right": 985,
+      "bottom": 596.046875
+    },
+    "closingBox": {
+      "x": 95,
+      "y": 1217.796875,
+      "width": 890,
+      "height": 54.390625,
+      "right": 985,
+      "bottom": 1272.1875
+    },
+    "signatureBox": {
+      "x": 749,
+      "y": 1318,
+      "width": 236,
+      "height": 99,
+      "right": 985,
+      "bottom": 1417
+    },
+    "dateBox": {
+      "x": 193,
+      "y": 996.796875,
+      "width": 792,
+      "height": 40,
+      "right": 985,
+      "bottom": 1036.796875
+    },
+    "paperBox": {
+      "x": 38,
+      "y": 472,
+      "width": 1004,
+      "height": 1018,
+      "right": 1042,
+      "bottom": 1490
+    },
+    "font": "37px"
+  }
+]
